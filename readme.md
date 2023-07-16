@@ -73,11 +73,14 @@
 - [D4 Planner Interactive Map](https://d4planner.io/map) - D4 Planner Interactive Map
 - [Pure Diablo Interactive Map](https://diablo4.purediablo.com/map/) - Pure Diablo Interactive Map
 - [Diablo Fans Interactive Map](https://www.diablofans.com/zones/d4/1-sanctuary) - Diablo Fans Interactive Map
+- [D4 Interactive Map](https://diablo4.th.gl) - Diablo 4 Interactive Map
+
 
 ### Overlays
 - [Diablo 4 Companion](https://github.com/josdemmers/Diablo4Companion) - Specify your prefered affixes for each gear slot and monitor them in game
-- [Diablo QoL](https://r.nf/r/diablo_qol) - Duplicate Aspect counter and filter dropdown for stash & inventory
+- [Diablo QoL](https://reddit.com/r/diablo_qol) - Duplicate Aspect counter and filter dropdown for stash & inventory
 - [Diablo Dungeon Timer](https://github.com/Shaydera/DiabloDungeonTimer) - Software which automatically tracks and times all dungeons entered in Diablo IV
+- [D4 Interactive Map](https://diablo4.th.gl) - **D4 Iteractive Map** in form of Overwolf app with player move tracking and additional features.
 
 ## Tier Lists
 - [Nightmare Dungeon Tier List](https://docs.google.com/spreadsheets/u/1/d/143tXzN_7-yoQCy7QEjo924UT2kWqH1VhWyXEsOvlwgA/htmlview?usp=sharing) - @wudijo Nightmare Dungeon Tier List
